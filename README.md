@@ -1,6 +1,6 @@
 # weekly-budget-app
-A simple javasript app for maintaining your weekly expences.
+A simple javascript app for maintaining your weekly expenses.
 
-Access the app hee https://sachinnegi.github.io/weekly-budget-app/
+Access the app here https://sachinnegi.github.io/weekly-budget-app/
 
-I you liked the app then do start the repo
+I you liked the app then do star the repo.
